@@ -1,12 +1,12 @@
 body {
     font-family: Arial, sans-serif;
-    background: #f4f4f4;
+    background: #be5a5a;
 }
 
 .container {
     width: 300px;
     margin: 50px auto;
-    background: white;
+    background: rgb(85, 54, 54);
     padding: 20px;
     border-radius: 5px;
 }
@@ -18,12 +18,12 @@ input, button {
 }
 
 button {
-    background: green;
-    color: white;
+    background: rgb(64, 90, 64);
+    color: rgb(73, 60, 60);
     border: none;
     cursor: pointer;
 }
 
 button:hover {
-    background: darkgreen;
+    background: rgb(74, 97, 74);
 }
